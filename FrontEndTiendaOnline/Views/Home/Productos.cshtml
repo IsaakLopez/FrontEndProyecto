@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Productos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Productos</h2>
+
+@(Html.DevExtreme().DataGrid<FrontEndTiendaOnline.Models.Producto>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("Producto")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("Id")
+    )
+    .RemoteOperations(true)
+    .SearchPanel(s => s
+        .Visible(true)
+        .HighlightCaseSensitive(false)
+        .HighlightSearchText(false)
+        .Width(300)
+        .Placeholder("Buscar productos...")
+    )
+    .Columns(columns => {
+
+        columns.AddFor(m => m.Id);
+
+        columns.AddFor(m => m.NombreProducto);
+
+        columns.AddFor(m => m.Descripcion);
+
+        columns.AddFor(m => m.Precio);
+
+        columns.AddFor(m => m.CantidadDisponible);
+
+        columns.AddFor(m => m.ProveedorId);
+
+        columns.AddFor(m => m.CategoriaId).Lookup(lookup => lookup
+            .DataSource(ds => ds.WebApi().Controller("Categoria").LoadAction("Get").Key("Id"))
+            .ValueExpr("Id")
+            .DisplayExpr("Nombre")
+        );
+    })
+    .Editing(e => e
+        .Mode(GridEditMode.Popup)
+        .AllowAdding(true)
+        .AllowUpdating(true)
+        .AllowDeleting(true)
+    )
+)

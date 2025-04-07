@@ -22,7 +22,7 @@ namespace FrontEndTiendaOnline {
             //styleBundle.Include("~/Content/dx-diagram.css");
 
             // Predefined themes: https://js.devexpress.com/DevExtreme/Guide/Themes_and_Styles/Predefined_Themes/
-            styleBundle.Include("~/Content/dx.light.css");
+            styleBundle.Include("~/Content/dx.dark.css");
 
             // Uncomment to use the Gantt control
             //scriptBundle.Include("~/Scripts/dx-gantt.js");

@@ -5,44 +5,53 @@
 
 <h2>Clientes</h2>
 
-@(Html.DevExtreme().DataGrid<FrontEndTiendaOnline.Models.Cliente>()
+@(Html.DevExtreme().DataGrid<FrontEndTiendaOnline.Models.Cliente>
+    ()
     .DataSource(ds => ds.WebApi()
-        .Controller("Cliente")
-        .LoadAction("Get")
-        .InsertAction("Post")
-        .UpdateAction("Put")
-        .DeleteAction("Delete")
-        .Key("Id")
+    .Controller("Cliente")
+    .LoadAction("Get")
+    .InsertAction("Post")
+    .UpdateAction("Put")
+    .DeleteAction("Delete")
+    .Key("Id")
     )
+
     .RemoteOperations(true)
+    .SearchPanel(s => s
+        .Visible(true)
+        .HighlightCaseSensitive(false)
+        .HighlightSearchText(false)
+        .Width(300)
+        .Placeholder("Buscar clientes...")
+    )
     .Columns(columns => {
 
-        columns.AddFor(m => m.Id);
+    columns.AddFor(m => m.Id);
 
-        columns.AddFor(m => m.Pais);
+    columns.AddFor(m => m.Pais);
 
-        columns.AddFor(m => m.DireccionExacta);
+    columns.AddFor(m => m.DireccionExacta);
 
-        columns.AddFor(m => m.Ciudad);
+    columns.AddFor(m => m.Ciudad);
 
-        columns.AddFor(m => m.CodigoPostal);
+    columns.AddFor(m => m.CodigoPostal);
 
-        columns.AddFor(m => m.Contrasena);
+    columns.AddFor(m => m.Contrasena);
 
-        columns.AddFor(m => m.FechaRegistro);
+    columns.AddFor(m => m.FechaRegistro);
 
-        columns.AddFor(m => m.Nombre);
+    columns.AddFor(m => m.Nombre);
 
-        columns.AddFor(m => m.Apellido);
+    columns.AddFor(m => m.Apellido);
 
-        columns.AddFor(m => m.Telefono);
+    columns.AddFor(m => m.Telefono);
 
-        columns.AddFor(m => m.Correo);
+    columns.AddFor(m => m.Correo);
     })
     .Editing(e => e
-        .Mode(GridEditMode.Popup)
-        .AllowAdding(true)
-        .AllowUpdating(true)
-        .AllowDeleting(true)
+    .Mode(GridEditMode.Popup)
+    .AllowAdding(true)
+    .AllowUpdating(true)
+    .AllowDeleting(true)
     )
-)
+    )

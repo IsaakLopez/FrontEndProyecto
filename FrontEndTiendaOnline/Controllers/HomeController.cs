@@ -14,5 +14,10 @@ namespace FrontEndTiendaOnline.Controllers {
         {
             return View();
         }
+
+        public ActionResult Productos()
+        {
+            return View();
+        }
     }
 }

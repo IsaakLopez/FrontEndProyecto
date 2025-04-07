@@ -17,6 +17,7 @@ namespace FrontEndTiendaOnline.Models
         private int _categoriaId;
         private Proveedor _proveedor;
 
+        public Producto() { }
         public Producto(int id, string nombreProducto, string descripcion, float precio, int cantidad, int proveedorId, int categoriaId)
         {
             Id = id;
