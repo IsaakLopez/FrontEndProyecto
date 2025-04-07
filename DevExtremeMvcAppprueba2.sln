@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevExtremeMvcAppprueba2", "DevExtremeMvcAppprueba2\DevExtremeMvcAppprueba2.csproj", "{251D615E-86B4-46B6-B809-1686A7E4A276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251D615E-86B4-46B6-B809-1686A7E4A276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251D615E-86B4-46B6-B809-1686A7E4A276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251D615E-86B4-46B6-B809-1686A7E4A276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251D615E-86B4-46B6-B809-1686A7E4A276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47C46A54-3AEC-44BC-965B-B282450A143F}
+	EndGlobalSection
+EndGlobal
