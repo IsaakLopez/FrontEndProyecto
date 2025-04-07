@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Envio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Envio</h2>
+
+@(Html.DevExtreme().DataGrid<FrontEndTiendaOnline.Models.Envio>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("Envio")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("Id")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.Id);
+
+        columns.AddFor(m => m.FechaEnvio);
+
+        columns.AddFor(m => m.FechaEntregaEstimada);
+
+        columns.AddFor(m => m.Estado);
+    })
+    .Editing(e => e
+        .Mode(GridEditMode.Popup)
+        .AllowAdding(true)
+        .AllowUpdating(true)
+        .AllowDeleting(true)
+    )
+)
