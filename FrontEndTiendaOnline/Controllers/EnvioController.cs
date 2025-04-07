@@ -102,5 +102,20 @@ namespace FrontEndTiendaOnline.Controllers
         }
 
 
+        [HttpDelete]
+        public async Task<HttpResponseMessage> Delete(FormDataCollection form)
+        {
+            var key = Convert.ToInt32(form.Get("key"));
+
+            var apiUrlDelPeli = "https://localhost:44304/api/Envio/" + key;
+            var handler = new HttpClientHandler();
+            handler.ServerCertificateCustomValidationCallback = (message, cert, chain, errors) => true;
+            using (var client = new HttpClient(handler))
+            {
+                var respuestaPelic = await client.DeleteAsync(apiUrlDelPeli);
+            }
+            return Request.CreateResponse(HttpStatusCode.OK);
+        }
+
     }
 }

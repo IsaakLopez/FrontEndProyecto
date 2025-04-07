@@ -34,5 +34,11 @@ namespace FrontEndTiendaOnline.Controllers {
         {
             return View();
         }
+
+        public ActionResult Inventario()
+        {
+            return View();
+        }
+
     }
 }

@@ -356,6 +356,7 @@
     <Content Include="Views\Home\Administrador.cshtml" />
     <Content Include="Views\Home\Devoluciones.cshtml" />
     <Content Include="Views\Home\Envio.cshtml" />
+    <Content Include="Views\Home\Inventario.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
