@@ -376,6 +376,7 @@
     <Compile Include="Controllers\DevolucionesController.cs" />
     <Compile Include="Controllers\EnvioController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\InventarioController.cs" />
     <Compile Include="Controllers\ProductoController.cs" />
     <Compile Include="Controllers\SampleDataController.cs" />
     <Compile Include="Global.asax.cs">

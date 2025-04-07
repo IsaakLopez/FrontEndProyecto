@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|c:\\users\\dell\\downloads\\frontendtiendaonline\\frontend\\frontendproyecto\\frontendtiendaonline\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\frontendtiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -86,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\InventarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:35:29.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Web.config",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Web.config",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Envio.cshtml",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Envio.cshtml",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Envio.cshtml",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EnvioController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\EnvioController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\EnvioController.cs",
@@ -137,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Devoluciones.cshtml",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Devoluciones.cshtml",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Devoluciones.cshtml",
@@ -150,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "DevolucionesController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\DevolucionesController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\DevolucionesController.cs",
@@ -163,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "SampleDataController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\SampleDataController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\SampleDataController.cs",
@@ -176,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CarritoController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\CarritoController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\CarritoController.cs",
@@ -189,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Administrador.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Administrador.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Models\\Administrador.cs",
@@ -201,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Administrador.cshtml",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Administrador.cshtml",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Administrador.cshtml",
@@ -214,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AdministradorController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\AdministradorController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\AdministradorController.cs",
@@ -227,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\ClienteController.cs",
@@ -240,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\HomeController.cs",
@@ -253,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Productos.cshtml",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
@@ -266,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\ProductoController.cs",
@@ -279,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Clientes.cshtml",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Clientes.cshtml",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Clientes.cshtml",
@@ -292,12 +309,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml*",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-07T03:32:07.888Z",
@@ -305,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\CategoriaController.cs",
@@ -318,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Models\\Producto.cs",
@@ -330,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "DevExtremeBundleConfig.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\App_Start\\DevExtremeBundleConfig.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\App_Start\\DevExtremeBundleConfig.cs",
