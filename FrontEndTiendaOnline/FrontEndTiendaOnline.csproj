@@ -359,6 +359,7 @@
     <Content Include="Views\Home\Inventario.cshtml" />
     <Content Include="Views\Home\MetodoPago.cshtml" />
     <Content Include="Views\Home\Pago.cshtml" />
+    <Content Include="Views\Home\Pedido.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -382,6 +383,7 @@
     <Compile Include="Controllers\InventarioController.cs" />
     <Compile Include="Controllers\MetodoPagoController.cs" />
     <Compile Include="Controllers\PagoController.cs" />
+    <Compile Include="Controllers\PedidoController.cs" />
     <Compile Include="Controllers\ProductoController.cs" />
     <Compile Include="Controllers\SampleDataController.cs" />
     <Compile Include="Global.asax.cs">
