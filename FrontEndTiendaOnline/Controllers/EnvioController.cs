@@ -79,8 +79,8 @@ namespace FrontEndTiendaOnline.Controllers
             var key = Convert.ToInt32(form.Get("key")); //llave que estoy modificando
             var values = form.Get("values"); //Los valores que yo modifiqué en formato JSON
 
-            var apiUrlGetcliente = "https://localhost:44304/api/Envio/" + key;
-            var respuestacliente = await GetAsync(apiUrlGetcliente = "https://localhost:44304/api/Envio/" + key);
+            var apiUrlGetenvio = "https://localhost:44304/api/Envio/" + key;
+            var respuestacliente = await GetAsync(apiUrlGetenvio = "https://localhost:44304/api/Envio/" + key);
             Envio envio = JsonConvert.DeserializeObject<Envio>(respuestacliente);
 
             JsonConvert.PopulateObject(values, envio);

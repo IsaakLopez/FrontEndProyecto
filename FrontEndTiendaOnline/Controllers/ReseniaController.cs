@@ -78,8 +78,8 @@ namespace FrontEndTiendaOnline.Controllers
             var key = Convert.ToInt32(form.Get("key")); //llave que estoy modificando
             var values = form.Get("values"); //Los valores que yo modifiqué en formato JSON
 
-            var apiUrlGetcliente = "https://localhost:44304/api/Resenia/" + key;
-            var respuestacliente = await GetAsync(apiUrlGetcliente = "https://localhost:44304/api/Resenia/" + key);
+            var apiUrlGetresenia = "https://localhost:44304/api/Resenia/" + key;
+            var respuestacliente = await GetAsync(apiUrlGetresenia = "https://localhost:44304/api/Resenia/" + key);
             Resenia resenia = JsonConvert.DeserializeObject<Resenia>(respuestacliente);
 
             JsonConvert.PopulateObject(values, resenia);
