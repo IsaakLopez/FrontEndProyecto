@@ -24,6 +24,7 @@
         columns.AddFor(m => m.CarritoId);
     })
     .Editing(e => e
+        .Mode(GridEditMode.Popup)
         .AllowAdding(true)
         .AllowUpdating(true)
         .AllowDeleting(true)

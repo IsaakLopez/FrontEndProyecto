@@ -22,6 +22,7 @@
         columns.AddFor(m => m.FechaRealizacion);
     })
     .Editing(e => e
+        .Mode(GridEditMode.Popup)
         .AllowAdding(true)
         .AllowUpdating(true)
         .AllowDeleting(true)

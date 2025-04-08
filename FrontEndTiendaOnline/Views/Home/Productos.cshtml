@@ -34,7 +34,11 @@
 
         columns.AddFor(m => m.CantidadDisponible);
 
-        columns.AddFor(m => m.ProveedorId);
+        columns.AddFor(m => m.ProveedorId).Lookup(lookup => lookup
+            .DataSource(ds => ds.WebApi().Controller("Proveedor").LoadAction("Get").Key("Id"))
+            .ValueExpr("Id")
+            .DisplayExpr("Nombre")
+        );
 
         columns.AddFor(m => m.CategoriaId).Lookup(lookup => lookup
             .DataSource(ds => ds.WebApi().Controller("Categoria").LoadAction("Get").Key("Id"))
