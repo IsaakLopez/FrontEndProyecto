@@ -55,5 +55,10 @@ namespace FrontEndTiendaOnline.Controllers {
             return View();
         }
 
+        public ActionResult Proveedor()
+        {
+            return View();
+        }
+
     }
 }
