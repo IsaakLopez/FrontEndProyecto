@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|c:\\users\\dell\\downloads\\frontendtiendaonline\\frontend\\frontendproyecto\\frontendtiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\frontendtiendaonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|c:\\users\\dell\\downloads\\frontendtiendaonline\\frontend\\frontendproyecto\\frontendtiendaonline\\views\\home\\resenia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\resenia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\frontendtiendaonline\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|c:\\users\\dell\\downloads\\frontendtiendaonline\\frontend\\frontendproyecto\\frontendtiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\frontendtiendaonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|c:\\users\\dell\\downloads\\frontendtiendaonline\\frontend\\frontendproyecto\\frontendtiendaonline\\views\\home\\proveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -134,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 29,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Resenia.cshtml",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Resenia.cshtml",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Resenia.cshtml",
@@ -159,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ReseniaController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ReseniaController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\ReseniaController.cs",
@@ -404,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AdministradorController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\AdministradorController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\AdministradorController.cs",
@@ -429,13 +429,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\HomeController.cs",
               "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwD4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T04:02:12.909Z",
               "EditorCaption": ""
@@ -479,13 +479,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\dell\\Downloads\\FrontEndTiendaOnline\\FrontEnd\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAwDIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwDEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-07T03:32:07.888Z",
               "EditorCaption": ""
