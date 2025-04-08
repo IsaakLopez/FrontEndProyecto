@@ -45,5 +45,10 @@ namespace FrontEndTiendaOnline.Controllers {
             return View();
         }
 
+        public ActionResult Pago()
+        {
+            return View();
+        }
+
     }
 }
