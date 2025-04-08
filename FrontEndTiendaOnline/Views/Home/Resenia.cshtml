@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Resenia";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Resenia</h2>
+
+@(Html.DevExtreme().DataGrid<FrontEndTiendaOnline.Models.Resenia>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("Resenia")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("Id")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+
+        columns.AddFor(m => m.Id);
+
+        columns.AddFor(m => m.Info);
+    })
+    .Editing(e => e
+        .AllowAdding(true)
+        .AllowUpdating(true)
+        .AllowDeleting(true)
+    )
+)

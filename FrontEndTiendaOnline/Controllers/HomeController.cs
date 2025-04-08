@@ -60,5 +60,10 @@ namespace FrontEndTiendaOnline.Controllers {
             return View();
         }
 
+        public ActionResult Resenia()
+        {
+            return View();
+        }
+
     }
 }
