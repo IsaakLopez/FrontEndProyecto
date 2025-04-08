@@ -15,7 +15,7 @@ namespace FrontEndTiendaOnline.Controllers {
             return View();
         }
 
-        public ActionResult Producto()
+        public ActionResult Productos()
         {
             return View();
         }
