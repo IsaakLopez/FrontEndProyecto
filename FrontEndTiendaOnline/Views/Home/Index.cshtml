@@ -4,30 +4,101 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Home</h2>
+<h2>Inicio</h2>
 
-@(Html.DevExtreme().DataGrid<SampleOrder>()
-    .ShowBorders(true)
-    .DataSource(d => d.WebApi().Controller("SampleData").Key("OrderID"))
-    .Columns(columns => {
-        columns.AddFor(m => m.OrderID);
-        columns.AddFor(m => m.OrderDate);
-        columns.AddFor(m => m.CustomerName);
-        columns.AddFor(m => m.ShipCountry);
-        columns.AddFor(m => m.ShipCity);
-    })
-    .Paging(p => p.PageSize(10))
-    .FilterRow(f => f.Visible(true))
-    .HeaderFilter(f => f.Visible(true))
-    .GroupPanel(p => p.Visible(true))
-    .Grouping(g => g.AutoExpandAll(false))
-    .RemoteOperations(true)
-    .Summary(s => s
-        .TotalItems(totalItems => {
-            totalItems.AddFor(m => m.ShipCity).SummaryType(SummaryType.Count);
-        })
-        .GroupItems(groupItems => {
-            groupItems.Add().SummaryType(SummaryType.Count);
-        })
-    )
-)
+<div id="imageGallery"></div>
+
+<style>
+    /* Estilos para el carrusel */
+    #imageGallery {
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        border-radius: 8px;
+        overflow: hidden;
+        margin: 20px auto;
+        max-width: 1200px; /* Ancho máximo opcional */
+    }
+
+    .dx-gallery-nav-button-prev,
+    .dx-gallery-nav-button-next {
+        background-color: rgba(255,255,255,0.5) !important;
+        color: #333 !important;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        margin: 0 15px;
+    }
+
+    .dx-gallery-indicator-item {
+        background: #ccc !important;
+        margin: 0 5px;
+    }
+
+        .dx-gallery-indicator-item.dx-item-selected {
+            background: #333 !important;
+        }
+
+    .image-caption {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(0,0,0,0.5);
+        color: white;
+        padding: 15px;
+        text-align: center;
+        font-size: 1.2em;
+    }
+</style>
+
+<script>
+    $(function () {
+        const imagenes = [
+            {
+                imageSrc: "/Content/img/img_2.jpg",
+                caption: "Oferta Especial 1"  // Texto descriptivo
+            },
+            {
+                imageSrc: "/Content/img/img_5.jpg",
+                caption: "Nuevos Productos"
+            },
+            {
+                imageSrc: "/Content/img/img_6.jpg",
+                caption: "Colección Exclusiva"
+            }
+        ];
+
+        $("#imageGallery").dxGallery({
+            dataSource: imagenes,
+            height: "60vh",  // Responsive (60% del viewport)
+            width: "100%",
+            loop: true,
+            slideshowDelay: 5000,  // 5 segundos (ajustable)
+            animationDuration: 800,  // Transición suave
+            showIndicator: true,
+            indicatorEnabled: true,
+            showNavButtons: false,
+            swipeEnabled: true,
+            stretchImages: true,
+            onItemClick: function (e) {
+                // Opcional: acción al hacer click
+                console.log("Imagen seleccionada:", e.itemIndex);
+                // Puedes añadir redirección u otras acciones
+            },
+            itemTemplate: function (data, index, element) {
+                // Plantilla personalizada con texto
+                return $("<div>").css({
+                    position: 'relative',
+                    height: '100%',
+                    width: '100%'
+                }).append(
+                    $("<img>").attr("src", data.imageSrc).css({
+                        'object-fit': 'cover',
+                        'width': '100%',
+                        'height': '100%'
+                    }),
+                    $("<div>").addClass("image-caption").text(data.caption)
+                );
+            }
+        });
+    });
+</script>

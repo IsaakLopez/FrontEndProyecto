@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|c:\\users\\megal\\onedrive\\escritorio\\2025 i pac\\poo\\iii unidad\\proyecto\\frontendact\\frontendproyecto\\frontendtiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|c:\\users\\megal\\onedrive\\escritorio\\2025 i pac\\poo\\iii unidad\\proyecto\\frontendact\\frontendproyecto\\frontendtiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\proveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\resenia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\pago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\pago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\envio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\envio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -138,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -147,6 +147,69 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pedido.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Pedido.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Pedido.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Pedido.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Pedido.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T06:02:10.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwFIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:56:50.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T03:32:07.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:02:12.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:57:03.818Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -162,19 +225,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Proveedor.cshtml",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Productos.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T07:16:56.921Z"
+              "WhenOpened": "2025-04-07T03:54:48.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ProveedorController.cs",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ProveedorController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\ProveedorController.cs",
@@ -187,55 +251,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Pedido.cshtml",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Pedido.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Pedido.cshtml",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Pedido.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Pedido.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Title": "Proveedor.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T06:02:10.644Z"
+              "WhenOpened": "2025-04-08T07:16:56.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PedidoController.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAYwFIAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T05:56:50.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAACGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T03:32:07.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T04:02:12.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Resenia.cshtml",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Resenia.cshtml",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Resenia.cshtml",
@@ -247,19 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T20:57:03.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Pago.cshtml",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Pago.cshtml",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Pago.cshtml",
@@ -283,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MetodoPago.cshtml",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\MetodoPago.cshtml",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\MetodoPago.cshtml",
@@ -307,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Inventario.cshtml",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Inventario.cshtml",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Inventario.cshtml",
@@ -343,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Envio.cshtml",
               "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Envio.cshtml",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Envio.cshtml",
@@ -460,18 +475,6 @@
               "ViewState": "AgIAAEEAAAAAAAAAAAAgwFEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T05:29:45.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Productos.cshtml",
-              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
-              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T03:54:48.035Z"
             },
             {
               "$type": "Document",
