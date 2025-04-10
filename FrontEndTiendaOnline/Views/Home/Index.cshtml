@@ -15,7 +15,8 @@
         border-radius: 8px;
         overflow: hidden;
         margin: 20px auto;
-        max-width: 1200px; /* Ancho máximo opcional */
+        max-width: 1200px;
+        height: 1000px;
     }
 
     .dx-gallery-nav-button-prev,
@@ -54,23 +55,27 @@
     $(function () {
         const imagenes = [
             {
-                imageSrc: "/Content/img/img_2.jpg",
+                imageSrc: "/Content/img/img_1.png",
                 caption: "Oferta Especial 1"  // Texto descriptivo
             },
             {
-                imageSrc: "/Content/img/img_5.jpg",
+                imageSrc: "/Content/img/img_8.3.png",
                 caption: "Nuevos Productos"
             },
             {
-                imageSrc: "/Content/img/img_6.jpg",
+                imageSrc: "/Content/img/img_9_1.png",
+                caption: "Colección Exclusiva"
+            },
+            {
+                imageSrc: "/Content/img/img_10.2.png",
                 caption: "Colección Exclusiva"
             }
         ];
 
         $("#imageGallery").dxGallery({
             dataSource: imagenes,
-            height: "60vh",  // Responsive (60% del viewport)
-            width: "100%",
+            height: "75vh",  // Responsive (60% del viewport)
+            width: "85%",
             loop: true,
             slideshowDelay: 5000,  // 5 segundos (ajustable)
             animationDuration: 800,  // Transición suave
@@ -92,7 +97,7 @@
                     width: '100%'
                 }).append(
                     $("<img>").attr("src", data.imageSrc).css({
-                        'object-fit': 'cover',
+                        'object-fit': 'auto',
                         'width': '100%',
                         'height': '100%'
                     }),
