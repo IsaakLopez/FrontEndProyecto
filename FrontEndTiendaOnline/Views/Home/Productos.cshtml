@@ -52,4 +52,31 @@
         .AllowUpdating(true)
         .AllowDeleting(true)
     )
+    .OnRowInserted("showSuccessMessage")  // Notificación al agregar
+    .OnRowRemoved("showDeleteMessage")    // Notificación al eliminar
 )
+@(Html.DevExtreme().Toast()
+    .ID("toast")
+    .DisplayTime(3000) // 3 segundos
+    .Width("auto")
+)
+
+<script>
+    function showSuccessMessage(e) {
+        const toast = $("#toast").dxToast("instance");
+        toast.option({
+            message: "Agregado con éxito",
+            type: "success"
+        });
+        toast.show();
+    }
+
+    function showDeleteMessage(e) {
+        const toast = $("#toast").dxToast("instance");
+        toast.option({
+            message: "Eliminado con éxito",
+            type: "warning"
+        });
+        toast.show();
+    }
+</script>

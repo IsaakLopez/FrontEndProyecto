@@ -19,15 +19,45 @@
 
         columns.AddFor(m => m.Id);
 
-        columns.AddFor(m => m.IdProducto);
-
-        columns.AddFor(m => m.Cantidad);
+        columns.AddFor(m => m.IdPedido).Lookup(lookup => lookup
+            .DataSource(ds => ds.WebApi().Controller("Pedido").LoadAction("Get").Key("Id"))
+            .ValueExpr("Id")
+            .DisplayExpr("Id")
+        );
 
         columns.AddFor(m => m.Motivo);
     })
     .Editing(e => e
-        .AllowAdding(true)
+        .Mode(GridEditMode.Popup)
+        .AllowAdding(true).UseIcons(true)
         .AllowUpdating(true)
         .AllowDeleting(true)
     )
+    .OnRowInserted("showSuccessMessage")  // Notificación al agregar
+    .OnRowRemoved("showDeleteMessage")    // Notificación al eliminar
 )
+@(Html.DevExtreme().Toast()
+    .ID("toast")
+    .DisplayTime(3000) // 3 segundos
+    .Width("auto")
+)
+
+<script>
+    function showSuccessMessage(e) {
+        const toast = $("#toast").dxToast("instance");
+        toast.option({
+            message: "Agregado con éxito",
+            type: "success"
+        });
+        toast.show();
+    }
+
+    function showDeleteMessage(e) {
+        const toast = $("#toast").dxToast("instance");
+        toast.option({
+            message: "Eliminado con éxito",
+            type: "warning"
+        });
+        toast.show();
+    }
+</script>

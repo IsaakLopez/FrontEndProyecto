@@ -22,7 +22,7 @@ namespace FrontEndTiendaOnline.Controllers
         [HttpGet]
         public async Task<HttpResponseMessage> Get(DataSourceLoadOptions loadOptions)
         {
-            var apiUrl = "https://localhost:44304/api/Admin";
+            var apiUrl = "https://localhost:44304/api/Proveedor";
             var respuestaJson = await GetAsync(apiUrl);
             List<Proveedor> listaproveedor = JsonConvert.DeserializeObject<List<Proveedor>>(respuestaJson);
             return Request.CreateResponse(DataSourceLoader.Load(listaproveedor, loadOptions));

@@ -1,145 +1,157 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\",
+  "WorkspaceRootPath": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|c:\\users\\dell\\source\\repos\\devextrememvcappprueba2\\frontend2\\frontendproyecto\\frontendtiendaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\resenia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\resenia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\content\\dx.softblue.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\content\\dx.softblue.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\proveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\proveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\pedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\pedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\pago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\pago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\metodopago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\metodopago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\inventario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\inventario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\envio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\envio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\reseniacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\reseniacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\reseniacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\resenia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\resenia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\proveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\proveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\devolucionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\devolucionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\metodopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\metodopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\pedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\pedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\pago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\pago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\enviocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\enviocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\metodopago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\metodopago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\inventario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\inventario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\envio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\envio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\administrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\administrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\devoluciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\devoluciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\devoluciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\controllers\\sampledatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\clientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\administrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\administrador.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|c:\\users\\megal\\onedrive\\escritorio\\2025 i pac\\poo\\iii unidad\\proyecto\\frontendact\\frontendproyecto\\frontendtiendaonline\\models\\devoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\models\\devoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|c:\\users\\megal\\onedrive\\escritorio\\2025 i pac\\poo\\iii unidad\\proyecto\\frontendact\\frontendproyecto\\frontendtiendaonline\\models\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\models\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\enviocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\enviocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|c:\\users\\megal\\onedrive\\escritorio\\2025 i pac\\poo\\iii unidad\\proyecto\\frontendact\\frontendproyecto\\frontendtiendaonline\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|c:\\users\\megal\\onedrive\\escritorio\\2025 i pac\\poo\\iii unidad\\proyecto\\frontendact\\frontendproyecto\\frontendtiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\content\\dx.softblue.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\content\\dx.softblue.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\devolucionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\devolucionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\metodopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\metodopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\controllers\\sampledatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\controllers\\sampledatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\frontendtiendaonline\\app_start\\devextremebundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\frontendtiendaonline\\app_start\\devextremebundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{663DCC50-4B7C-40F3-8DD6-2F9A52648AAA}|FrontEndTiendaOnline\\FrontEndTiendaOnline.csproj|solutionrelative:frontendtiendaonline\\app_start\\devextremebundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -150,87 +162,333 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dx.softblue.css",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Content\\dx.softblue.css",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Content\\dx.softblue.css",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Content\\dx.softblue.css",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Content\\dx.softblue.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-10T05:19:26.462Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Site.css",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Content\\Site.css",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Content\\Site.css",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Content\\Site.css",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Content\\Site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-10T04:11:16.46Z"
+              "DocumentIndex": 6,
+              "Title": "Pago.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Pago.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Pago.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Pago.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Pago.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T04:26:36.01Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-10T04:05:52.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Pedido.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Pedido.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Pedido.cshtml",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Pedido.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Pedido.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Pedido.cshtml",
               "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Pedido.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T06:02:10.644Z"
+              "WhenOpened": "2025-04-08T06:02:10.644Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PedidoController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAYwFIAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T05:56:50.867Z"
+              "DocumentIndex": 4,
+              "Title": "Productos.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T03:54:48.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Title": "Proveedor.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwEYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T03:32:07.888Z"
+              "WhenOpened": "2025-04-08T07:16:56.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resenia.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Resenia.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Resenia.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Resenia.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Resenia.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T07:44:03.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReseniaController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ReseniaController.cs",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\ReseniaController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ReseniaController.cs",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\ReseniaController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:22:51.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ProveedorController.cs*",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\ProveedorController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:11:32.306Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "MetodoPago.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\MetodoPago.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\MetodoPago.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\MetodoPago.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\MetodoPago.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T23:00:29.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventario.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Inventario.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Inventario.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Inventario.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Inventario.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T22:46:23.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Envio.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Envio.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Envio.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Envio.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Envio.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T22:31:28.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Devoluciones.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Devoluciones.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Devoluciones.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Devoluciones.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Devoluciones.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T22:18:43.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Clientes.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Clientes.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Clientes.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Clientes.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Clientes.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T03:38:51.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Administrador.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Administrador.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Administrador.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Administrador.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Administrador.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T21:26:13.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:56:50.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:10:39.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarritoController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\CarritoController.cs",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\CarritoController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\CarritoController.cs",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\CarritoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:04:43.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnvioController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\EnvioController.cs",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\EnvioController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\EnvioController.cs",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\EnvioController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:26:30.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Pago.cs",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Models\\Pago.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Pago.cs",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Models\\Pago.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:36:43.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PagoController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\PagoController.cs",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\PagoController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\PagoController.cs",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\PagoController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwFIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T04:19:44.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Devoluciones.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Devoluciones.cs",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Models\\Devoluciones.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Devoluciones.cs",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Models\\Devoluciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T17:20:39.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Envio.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Envio.cs",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Models\\Envio.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Envio.cs",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Models\\Envio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:56:11.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdministradorController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\AdministradorController.cs",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\AdministradorController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\AdministradorController.cs",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\AdministradorController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:16:39.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:57:03.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T03:32:07.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\HomeController.cs",
               "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -238,120 +496,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADIAAAAAAAAAAAAmwEUAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T20:57:03.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T04:05:52.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ReseniaController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ReseniaController.cs",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\ReseniaController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ReseniaController.cs",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\ReseniaController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowFQAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:22:51.838Z"
+              "DocumentIndex": 25,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Content\\Site.css",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Content\\Site.css",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-10T04:11:16.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Productos.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Productos.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T03:54:48.035Z"
+              "DocumentIndex": 24,
+              "Title": "dx.softblue.css",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Content\\dx.softblue.css",
+              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Content\\dx.softblue.css",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Content\\dx.softblue.css",
+              "RelativeToolTip": "FrontEndTiendaOnline\\Content\\dx.softblue.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-10T05:19:26.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProveedorController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ProveedorController.cs",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\ProveedorController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ProveedorController.cs",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\ProveedorController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAswFMAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T06:11:32.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Proveedor.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Proveedor.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T07:16:56.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Resenia.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Resenia.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Resenia.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Resenia.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Resenia.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T07:44:03.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Pago.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Pago.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Pago.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Pago.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Pago.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T04:26:36.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PagoController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\PagoController.cs",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\PagoController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\PagoController.cs",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\PagoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T04:19:44.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MetodoPago.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\MetodoPago.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\MetodoPago.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\MetodoPago.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\MetodoPago.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T23:00:29.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "MetodoPagoController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\MetodoPagoController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\MetodoPagoController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\MetodoPagoController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\MetodoPagoController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\MetodoPagoController.cs",
               "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\MetodoPagoController.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAYwFMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -359,23 +544,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Inventario.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Inventario.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Inventario.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Inventario.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Inventario.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T22:46:23.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "InventarioController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\InventarioController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\InventarioController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\InventarioController.cs",
               "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\InventarioController.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAowFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -383,11 +556,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Web.config",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Web.config",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Web.config",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Web.config",
               "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -395,47 +568,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Envio.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Envio.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Envio.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Envio.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Envio.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T22:31:28.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "EnvioController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\EnvioController.cs",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\EnvioController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\EnvioController.cs",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\EnvioController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFIAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T22:26:30.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Devoluciones.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Devoluciones.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Devoluciones.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Devoluciones.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Devoluciones.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T22:18:43.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "DevolucionesController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\DevolucionesController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\DevolucionesController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\DevolucionesController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\DevolucionesController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\DevolucionesController.cs",
               "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\DevolucionesController.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAkwDwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -443,11 +580,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "SampleDataController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\SampleDataController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\SampleDataController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\SampleDataController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\SampleDataController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\SampleDataController.cs",
               "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\SampleDataController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -455,23 +592,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CarritoController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\CarritoController.cs",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\CarritoController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\CarritoController.cs",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\CarritoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T22:04:43.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Administrador.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Models\\Administrador.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Administrador.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Administrador.cs",
               "RelativeToolTip": "FrontEndTiendaOnline\\Models\\Administrador.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIAwwBYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -479,35 +604,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Administrador.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Administrador.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Administrador.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Administrador.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Administrador.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T21:26:13.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AdministradorController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\AdministradorController.cs",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\AdministradorController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\AdministradorController.cs",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\AdministradorController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAuwFUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:16:39.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\ClienteController.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAgwFEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -515,11 +616,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\ProductoController.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAYwBEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -527,35 +628,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Clientes.cshtml",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Clientes.cshtml",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Views\\Home\\Clientes.cshtml",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Views\\Home\\Clientes.cshtml",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Views\\Home\\Clientes.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T03:38:51.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "FrontEndTiendaOnline\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T05:10:39.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Producto.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\Models\\Producto.cs",
               "RelativeToolTip": "FrontEndTiendaOnline\\Models\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -563,11 +640,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "DevExtremeBundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\App_Start\\DevExtremeBundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\App_Start\\DevExtremeBundleConfig.cs",
               "RelativeDocumentMoniker": "FrontEndTiendaOnline\\App_Start\\DevExtremeBundleConfig.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\DevExtremeMvcAppprueba2\\FrontEnd2\\FrontEndProyecto\\FrontEndTiendaOnline\\App_Start\\DevExtremeBundleConfig.cs",
+              "ToolTip": "C:\\Users\\megal\\OneDrive\\Escritorio\\2025 I PAC\\POO\\III UNIDAD\\Proyecto\\FrontendAct\\FrontEndProyecto\\FrontEndTiendaOnline\\App_Start\\DevExtremeBundleConfig.cs",
               "RelativeToolTip": "FrontEndTiendaOnline\\App_Start\\DevExtremeBundleConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
