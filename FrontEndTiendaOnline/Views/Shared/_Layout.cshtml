@@ -127,7 +127,7 @@
                         <a class="nav-link nav-link d-flex flex-column align-items-center @(ViewContext.RouteData.Values["action"].ToString() == "Resenia" ? "active" : "")" href="@Url.Action("Resenia", "Home")"><i class="bi bi-chat-left-text-fill me-1"></i>Resenia</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link nav-link d-flex flex-column align-items-center" href="#about"><i class="bi bi-info-circle me-1"></i>About</a>
+                        <a class="nav-link nav-link d-flex flex-column align-items-center @(ViewContext.RouteData.Values["action"].ToString() == "Manual" ? "active" : "")" href="@Url.Action("Manual", "Home")"><i class="bi bi-file-earmark-pdf-fill"></i>Manual</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link nav-link d-flex flex-column align-items-center" href="#contact"><i class="bi bi-envelope me-1"></i>Contact</a>

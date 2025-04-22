@@ -362,6 +362,7 @@
     <Content Include="Views\Home\Pedido.cshtml" />
     <Content Include="Views\Home\Proveedor.cshtml" />
     <Content Include="Views\Home\Resenia.cshtml" />
+    <Content Include="Views\Home\Manual.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -65,5 +65,9 @@ namespace FrontEndTiendaOnline.Controllers {
             return View();
         }
 
+        public ActionResult Manual()
+        {
+            return View();
+        }
     }
 }
