@@ -3,7 +3,36 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Envio</h2>
+<h2 class="titulo-formal">Envio</h2>
+<style>
+    .titulo-formal {
+        text-align: center;
+        margin-bottom: 2rem;
+        font-size: 2.3rem;
+        font-weight: 600;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(90deg, #2c3e50, #34495e); /* Degradado azul oscuro/gris */
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        letter-spacing: 0.5px;
+        padding-bottom: 0.7rem;
+        position: relative;
+    }
+
+        .titulo-formal::after {
+            content: '';
+            position: absolute;
+            left: 50%;
+            bottom: 0;
+            transform: translateX(-50%);
+            width: 160px;
+            height: 3px;
+            background: linear-gradient(90deg, #3498db, #2c3e50); /* Degradado azul */
+            border-radius: 3px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+</style>
 
 @(Html.DevExtreme().DataGrid<FrontEndTiendaOnline.Models.Envio>()
     .DataSource(ds => ds.WebApi()
@@ -15,40 +44,99 @@
         .Key("Id")
     )
     .RemoteOperations(true)
+    .SearchPanel(s => s
+        .Visible(true)
+        .HighlightCaseSensitive(true)
+        .HighlightSearchText(false)
+        .Width(300)
+        .Placeholder("Buscar Envios...")
+    )
+    .Paging(p => p.PageSize(10))
+    .Pager(p => p
+        .ShowPageSizeSelector(true)
+        .AllowedPageSizes(new[] { 5, 10, 20 })
+        .ShowInfo(true)
+        .ShowNavigationButtons(true)
+    )
+    .ColumnAutoWidth(true)
+    .RowAlternationEnabled(true)
+    .ShowBorders(true)
     .Columns(columns => {
 
-        columns.AddFor(m => m.Id);
+        columns.AddFor(m => m.Id)
+            .Alignment(HorizontalAlignment.Center);
         columns.AddFor(m => m.Idpago).Lookup(lookup => lookup
             .DataSource(ds => ds.WebApi().Controller("Pago").LoadAction("Get").Key("Id"))
             .ValueExpr("Id")
             .DisplayExpr("Id")
-        );
+        )
+            .Alignment(HorizontalAlignment.Center);
         columns.AddFor(m => m.Idpedido).Lookup(lookup => lookup
             .DataSource(ds => ds.WebApi().Controller("Pedido").LoadAction("Get").Key("Id"))
             .ValueExpr("Id")
             .DisplayExpr("Id")
-        );
-        columns.AddFor(m => m.FechaEnvio);
+        )
+            .Alignment(HorizontalAlignment.Center);
+        columns.AddFor(m => m.FechaEnvio)
+            .Alignment(HorizontalAlignment.Center);
 
         columns.AddFor(m => m.FechaEntregaEstimada)
-             .AllowEditing(false);
-        columns.AddFor(m => m.Estado);
+             .AllowEditing(false)
+             .Alignment(HorizontalAlignment.Center);
+        columns.AddFor(m => m.Estado)
+        .Alignment(HorizontalAlignment.Center);
     })
     .Editing(e => e
         .Mode(GridEditMode.Popup)
-        .AllowAdding(true).UseIcons(true)
+        .AllowAdding(true)
+        .UseIcons(true)
         .AllowUpdating(true)
         .AllowDeleting(true)
+        .Popup(p => p
+            .Title("Información de Envios")
+            .ShowTitle(true)
+            .Width(700)
+            .Height(500)
+        )
     )
-    .OnRowInserted("showSuccessMessage")  // Notificación al agregar
-    .OnRowRemoved("showDeleteMessage")    // Notificación al eliminar
+    .OnRowInserted("showSuccessMessage")
+    .OnRowUpdated("showUpdateMessage")
+    .OnRowRemoved("showDeleteMessage")  
 )
 @(Html.DevExtreme().Toast()
     .ID("toast")
     .DisplayTime(3000) // 3 segundos
     .Width("auto")
 )
+<style>
+    .dx-datagrid {
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
 
+    .dx-header-row {
+        background-color: #f8f9fa;
+        font-weight: bold;
+    }
+
+    .dx-datagrid-rowsview .dx-row-alt {
+        background-color: rgba(0,0,0,0.02);
+    }
+
+    .dx-datagrid-content .dx-row.dx-data-row:hover {
+        background-color: rgba(0,123,255,0.05);
+    }
+
+    .dx-button.dx-button-success {
+        background-color: #28a745;
+        color: white;
+    }
+
+    .dx-button.dx-button-danger {
+        background-color: #dc3545;
+        color: white;
+    }
+</style>
 <script>
     function showSuccessMessage(e) {
         const toast = $("#toast").dxToast("instance");
@@ -59,6 +147,14 @@
         toast.show();
     }
 
+    function showUpdateMessage(e) {
+        const toast = $("#toast").dxToast("instance");
+        toast.option({
+            message: "Actualizado con éxito",
+            type: "info"
+        });
+        toast.show();
+    }
     function showDeleteMessage(e) {
         const toast = $("#toast").dxToast("instance");
         toast.option({
