@@ -106,6 +106,18 @@
     .OnRowInserted("showSuccessMessage")
     .OnRowUpdated("showUpdateMessage")
     .OnRowRemoved("showDeleteMessage")
+    .Export(e => e
+        .Enabled(true)
+        .AllowExportSelectedData(false)
+        .Formats(new[] { "xlsx" })
+    )
+    .OnExporting("onExporting")
+    .Toolbar(t => t.Items(items =>
+    {
+        items.Add().Name("addRowButton");
+        items.Add().Name("exportButton");
+        items.Add().Name("searchPanel");
+    }))
 )
 
 @(Html.DevExtreme().Toast()
@@ -167,5 +179,26 @@
             type: "warning"
         });
         toast.show();
+    }
+    function onExporting(e) {
+        const workbook = new ExcelJS.Workbook();
+        const worksheet = workbook.addWorksheet('Administradores');
+
+        DevExpress.excelExporter.exportDataGrid({
+            component: e.component,
+            worksheet: worksheet,
+            autoFilterEnabled: true,
+            customizeCell: function (options) {
+                const { gridCell, excelCell } = options;
+                if (gridCell.column.dataField === 'FechaRegistro') {
+                    excelCell.numFmt = 'dd/mm/yyyy';
+                }
+            }
+        }).then(function () {
+            workbook.xlsx.writeBuffer().then(function (buffer) {
+                saveAs(new Blob([buffer], { type: 'application/octet-stream' }), 'Administradores.xlsx');
+            });
+        });
+        e.cancel = true;
     }
 </script>
